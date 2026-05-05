@@ -1,4 +1,4 @@
-# 👨‍💻 Akon Fortes
+# Akon Fortes
 
 **`Desenvolvedor de Software`**
 
@@ -23,7 +23,7 @@
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img 
     align="left" 
