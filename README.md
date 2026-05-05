@@ -4,8 +4,6 @@
 
 💻 Focado em desenvolvimento web com JavaScript e Python.
 
----
-
 <p align="left">
    <a href="https://github.com/akonfortes?tab=followers">
       <img 
