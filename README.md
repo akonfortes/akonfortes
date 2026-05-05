@@ -2,7 +2,7 @@
 
 **`Desenvolvedor de Software`**
 
-💻 Focado em desenvolvimento web com JavaScript e Python.
+💻 Focado em desenvolvimento web com JavaScript.
 
 <p align="left">
    <a href="https://github.com/akonfortes?tab=followers">
