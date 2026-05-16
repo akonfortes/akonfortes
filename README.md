@@ -2,7 +2,7 @@
 
 **`Desenvolvedor de Software`**
 
-💻 Focado em desenvolvimento web com JavaScript e Java.
+Graduando em Desenvolvimento de Software, em constante aprendizado e evolução na área de tecnologia.
 
 <p align="left">
    <a href="https://github.com/akonfortes?tab=followers">
