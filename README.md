@@ -2,7 +2,7 @@
 
 **`Desenvolvedor de Software`**
 
-💻 Focado em desenvolvimento web com JavaScript.
+💻 Focado em desenvolvimento web com JavaScript e Java.
 
 <p align="left">
    <a href="https://github.com/akonfortes?tab=followers">
@@ -48,6 +48,14 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Java"
+    title="Java"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
 <img 
     align="left" 
